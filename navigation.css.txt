@@ -1,1 +1,2 @@
 style de la barre de navigation 
+correction de bug git
